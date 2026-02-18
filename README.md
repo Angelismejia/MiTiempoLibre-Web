@@ -12,8 +12,8 @@ Mi Tiempo Libre es un proyecto personal que consiste en un sitio web informativo
 Ofrecer una plataforma atractiva y fácil de navegar donde los usuarios puedan descubrir y organizar actividades recreativas, promoviendo un uso eficiente y divertido del tiempo libre.
 
 ## Rol y herramientas
-- **Rol:** Desarrollo y diseño web (UX/UI)  
-- **Herramientas:** Google Sites, Canva, diseño visual, organización de contenido
+- **Rol:** Desarrollo y diseño web (UX/UI).
+- **Herramientas:** Google Sites, Canva, diseño visual, organización de contenido.
 
 ## Funcionalidades destacadas
 - Página de inicio con información sobre actividades  
