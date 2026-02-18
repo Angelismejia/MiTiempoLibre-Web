@@ -21,5 +21,8 @@ Ofrecer una plataforma atractiva y fácil de navegar donde los usuarios puedan d
 - Diseño visual atractivo y amigable  
 - Navegación sencilla y responsiva
 
+## Video demostrativo
+Mira cómo funciona la aplicación **Mi Tiempo Libre** en este video: https://www.youtube.com/watch?v=iApy20xJ6C0
+
 
 
