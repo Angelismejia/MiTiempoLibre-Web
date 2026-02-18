@@ -6,7 +6,8 @@ Página web informativa sobre actividades recreativas
 **Enlace al sitio:** [Mi Tiempo Libre](https://sites.google.com/view/mitiempolibre/inicio)
 
 ## Descripción
-Mi Tiempo Libre es un proyecto personal que consiste en un sitio web informativo sobre actividades recreativas y de ocio. Su objetivo es organizar la información de manera estética y clara, facilitando a los usuarios conocer opciones de entretenimiento y gestión de su tiempo libre.
+Mi Tiempo Libre es un proyecto personal que consiste en un sitio web informativo sobre actividades recreativas y de ocio. 
+Su objetivo es organizar la información de manera estética y clara, facilitando a los usuarios conocer opciones de entretenimiento y gestión de su tiempo libre.
 
 ## Objetivo
 Ofrecer una plataforma atractiva y fácil de navegar donde los usuarios puedan descubrir y organizar actividades recreativas, promoviendo un uso eficiente y divertido del tiempo libre.
