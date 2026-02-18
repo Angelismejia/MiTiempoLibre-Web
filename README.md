@@ -2,7 +2,7 @@
 Página web informativa sobre actividades recreativas  
 # Mi Tiempo Libre
 
-**Proyecto:** Página web informativa sobre actividades recreativas  
+**Proyecto:** Página web informativa sobre actividades recreativas.
 **Enlace al sitio:** [Mi Tiempo Libre](https://sites.google.com/view/mitiempolibre/inicio)
 
 ## Descripción
