@@ -1,5 +1,6 @@
 # MiTiempoLibre-Web
-Página web informativa sobre actividades recreativas  
+Página web informativa sobre actividades recreativas — Proyecto ITLA
+
 # Mi Tiempo Libre
 
 **Proyecto:** Página web informativa sobre actividades recreativas.
